@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/707b4f08-f061-4be1-ac2f-b5f719bcc26d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/lalgebra",
+    "appService.deploySubpath": "."
+}
